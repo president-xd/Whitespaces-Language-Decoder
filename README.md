@@ -19,8 +19,9 @@ git clone https://github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
 cd Whitespaces-Language-Decoder
 ```
 3. Install the required Python module:
+```bash
 pip install pwntools
-
+```
 
 ## Usage
 
