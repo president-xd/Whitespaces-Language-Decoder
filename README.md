@@ -14,6 +14,7 @@ This Python script decodes a file encoded in Whitespace language, transforming i
 ```bash
 git clone https://github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
 ```
+2. Move the terminal to repo directory:
 ```bash
 cd Whitespaces-Language-Decoder
 ```
