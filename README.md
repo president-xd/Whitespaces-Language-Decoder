@@ -10,10 +10,14 @@ This Python script decodes a file encoded in Whitespace language, transforming i
 ## Installation
 
 1. Clone the repository:
-git clone https:github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
+git clone
+```Python
+https:github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
+```
+```bash
 cd whitespace-decoder
-
-2. Install the required Python module:
+```
+3. Install the required Python module:
 pip install pwntools
 
 
