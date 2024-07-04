@@ -10,9 +10,9 @@ This Python script decodes a file encoded in Whitespace language, transforming i
 ## Installation
 
 1. Clone the repository:
-git clone
-```Python
-https:github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
+
+```bash
+git clone https://github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
 ```
 ```bash
 cd Whitespaces-Language-Decoder
