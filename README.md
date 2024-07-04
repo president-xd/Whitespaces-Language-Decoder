@@ -4,13 +4,13 @@ This Python script decodes a file encoded in Whitespace language, transforming i
 
 ## Requirements
 
-- Python 3.x
+- Python 3.x or Python
 - Python `pwn` module (`pwntools`)
 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/whitespace-decoder.git
+git clone https:github.com/PRESIDENT-XD/Whitespaces-Language-Decoder.git
 cd whitespace-decoder
 
 2. Install the required Python module:
